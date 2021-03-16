@@ -1,0 +1,20 @@
+!import-table --crush --show
+!import-table-item --crush --Weak grip. No extra damage. --55 --
+!import-table-item --crush --Minor fracture of ribs. +5 hits. -5 activity --15 --
+!import-table-item --crush --Blow to side.  +4 hits. -40 activity for 1 round. --15 --
+!import-table-item --crush --Blow to forearm. +5 hits. If no arm armor, stunned 1 round. --15 --
+!import-table-item --crush --Blow to shield shoulder breaks shield. If no shield shoulder broken, arm useless. --15 --
+!import-table-item --crush --Blow breaks bone in leg. +12 hits. -40 to activity. Stunned two rounds. --14 --
+!import-table-item --crush --Strike to forehead. +30 hits. One eye destroyed. Stunned 24 rounds. If no helm: a 1 month coma results. --1 --
+!import-table-item --crush --Blow to weapon arm. +8 hits. Stunned 2 rounds.  If no arm armor: tendon damaged, arm broken and useless. --6 --
+!import-table-item --crush --Shatter knee. +9 hits. -60 to activity. Knocked down and stunned for 3 rounds. --3 --
+!import-table-item --crush --Blow to back of neck paralyzes from the shoulders down. +25 hits. Foe quite stunned. --1 --
+!import-table-item --crush --Unconscious for 4 hours due to blow to side of head. If no helm then skull crushed. --6 --
+!import-table-item --crush --Blast to chest sends rib cage through lungs. Drops and dies in 6 rounds. Vicious. --3 --
+!import-table-item --crush --Blow to jaw. Drives bone into brain. Dies instantly. --1 --
+!import-table-item --crush --Blow breaks hip. +15 hits. -75 activity. Knocked down and stunned 3 rounds. --6 --
+!import-table-item --crush --Neck strike crushes throat. Cannot breath and stunned for 12 rounds.  Poor fool then expires. --3 --
+!import-table-item --crush --Crushes hip. +35 hits. Stunned for 2 rounds. Active the following 4 rounds, but then dies of nerve failure. --1 --
+!import-table-item --crush --Shatter elbow in weapon arm. Arm useless. Stunned 5 rounds. --6 --
+!import-table-item --crush --Blow to side crushes chest cavity. Drops and dies in 3 rounds. --3 --
+!import-table-item --crush --Blast to chest area. Destroys heart. Dies immediately. +25 hits. Fine work. --1 --
