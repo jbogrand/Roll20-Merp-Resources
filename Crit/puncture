@@ -1,0 +1,20 @@
+!import-table --puncture --show
+!import-table-item --puncture --Glancing blow. No extra damage. --55 --
+!import-table-item --puncture --Glancing blow to side. +3 hits. --15 --
+!import-table-item --puncture --Thigh strike. +3 hits If no leg armor then 3 hits per round. --15 --
+!import-table-item --puncture --Minor forearm wound. +2 hits. If no arm armor then stunned 1 round. --15 --
+!import-table-item --puncture --Strike along side of chest. 1 hit per round. Stunned 1 round. --15 --
+!import-table-item --puncture --Strike to lower leg. Tendons torn. +3 hits. -25 activity. Stunned 1 round. --14 --
+!import-table-item --puncture --Strike to neck. Nerves and blood vessels severed. Dies of a massive heart failure. --1 --
+!import-table-item --puncture --Strike to weapon arm. +10 hits. If no arm armor then bone broken, stunned 3 rounds. --6 --
+!import-table-item --puncture --Strike through lower leg. Sever muscle. -50 activity. Stunned 3 rounds. --3 --
+!import-table-item --puncture --Strike through both lungs. Drops and passes out. Dies in 6 rounds. --1 --
+!import-table-item --puncture --Strike to side of head. Knocked out for 6 hours. +10 hits. If no helf then dies instantly. --6 --
+!import-table-item --puncture --Strike through neck breaks backbone and severs spine. Paralized from the neck down permanently. --3 --
+!import-table-item --puncture --Strike through eye. Dies instantly. A real eye full. --1 --
+!import-table-item --puncture --Major abdominal wound. +10 hits. 6 hits per round. -20 activity. Stunned 4 rounds. --6 --
+!import-table-item --puncture --Nailed in lower back. Down and unconscious. Dies from internal bleeding and shock in 6 rounds. --3 --
+!import-table-item --puncture --Shot through heart. Reels 10 feet to a spot suitable for dying. Weapon stuck in spinning victim for at least 3 rounds. --1 --
+!import-table-item --puncture --Strike through leg. Artery severed. Down and unconscious. 12 hits per round. --6 --
+!import-table-item --puncture --Strike through kidneys. +9 hits. Knocked down and dies after 6 rounds of very intense agony. Sad. --3 --
+!import-table-item --puncture --Shot through both ears Hearing impaired, dies instantly. Awesome shot. --1 --
