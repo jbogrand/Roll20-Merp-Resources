@@ -1,0 +1,20 @@
+!import-table --Grappling --show
+!import-table-item --Grappling --An opportunity lost. --55 --
+!import-table-item --Grappling --Passing strike. +2 hits. --15 --
+!import-table-item --Grappling --Attack fended off. +3 hits. If arm armor then stunned 1 round. --15 --
+!import-table-item --Grappling --Leg attack. Spun about, but breaks loose. If leg armor, stunned 1 round. --15 --
+!import-table-item --Grappling --Shield arm entagled. If shield then -50 acttivity until it is dropped. If no shield then -50 to activity. --15 --
+!import-table-item --Grappling --Weapon arm grasped. Disarmed and wrist sprained. Stunned 2 rounds. -25 to activity. --14 --
+!import-table-item --Grappling --Both legs entangled. down and knocked out. +9 hits. --1 --
+!import-table-item --Grappling --Weapon arm grappled. Ligaments torn and muscle pulled. Disarmed and stunned for 3 rounds. -40 to activity. --6 --
+!import-table-item --Grappling --Completely entagled and immobilized. Knocked down, but still conscious. No activity. --3 --
+!import-table-item --Grappling --Vicious hold around neck. Knocked out. Sprained neck -60 to activity. --1 --
+!import-table-item --Grappling --Head grappled Stunned 9 rounds. If no helm then a coma for 1 to 10 days results due to a fractured skull. --6 --
+!import-table-item --Grappling --Both arms entagled and pinned to chest. Arms may not be moved until entanglement removed. -75 to activity. --3 --
+!import-table-item --Grappling --Neck grappled. If neck armor then -60 to activity due to neck sprain and stunned 3 rounds.  If not then dies from broken neck. --1 --
+!import-table-item --Grappling --Chest grasped.  Ribs broken. Stunned 5 rounds. -10 to activity. --6 --
+!import-table-item --Grappling --Legs entangled and completely immobilized.  Fall and break weapon arm.  Disarmed and knocked out. +20 hits. --3 --
+!import-table-item --Grappling --Neck grappled. If neck armor disarmed and stunned 5 rounds. If not then dies in 6 rounds. --1 --
+!import-table-item --Grappling --Foot entagled. Stumble, fall, break weapon on impact and stunned 2 rounds.  If no chest armor take a D crush crit. --6 --
+!import-table-item --Grappling --Both legs wrapped up. Tumbles to ground and knocked out. -80 to activity due to a broken arm and a broken ankle.  +20 hits. --3 --
+!import-table-item --Grappling --Windpipe crushed. Dies instantly due to massive shock and savage asphyxiation. --1 --
