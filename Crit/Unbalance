@@ -1,0 +1,20 @@
+!import-table --unbalance --show
+!import-table-item --unbalance --Fairly Wee. +0 hits. Zip. --55 --
+!import-table-item --unbalance --Arm strike. +2 hits. -5 activity for 2 rounds. --15 --
+!import-table-item --unbalance --Leg strike. +4 hits If no leg armor stunned 1 round. --15 --
+!import-table-item --unbalance --Chest strike. Knocked back 3 feet. +5 hits. -10 to activity for 2 rounds. --15 --
+!import-table-item --unbalance --Blow to shield arm. +5 hits. Shield torn away. If no shield then 8 hits and stunned 2 rounds. --15 --
+!import-table-item --unbalance --Elbow strike. Forearm numbed. +8 hits. Drop  Weapon. -10 to actvity for 10 rounds. --14 --
+!import-table-item --unbalance --Brutal hip strike. Knocked down. Tendon torn and joint shattered. Leg useless. -80 to activity. --1 --
+!import-table-item --unbalance --Shot to side. Knocked 5 feet sideways. Drop anything carried in hands. Stunned 3 rounds. --6 --
+!import-table-item --unbalance --Side strike Stumble ungracefully to an embarrassing prone position.  Stunned 6 rounds. --3 --
+!import-table-item --unbalance --Back strike. Knocked flying 10 feet onto face. Severe nerve damage. Paralyzed from waist down. --1 --
+!import-table-item --unbalance --Hard head strike. Knocked back 10 feet and stunned 6 rounds. If no helm then unconsious for 24 hours. --6 --
+!import-table-item --unbalance --Totally awesome strike. Knocked to knees. If using 1 hand weapon it is thrown backwards 10 feet. Stunned 15 rounds. --3 --
+!import-table-item --unbalance --Upper chest strike. Knocked 10 feet sideways. Fall down, break both arms. A 2 month coma results. --1 --
+!import-table-item --unbalance --Blow breas leg. +12 hits. -50 to activity. Stunned 1 round. --6 --
+!import-table-item --unbalance --Strike to head. Knocked 10 feet back +9 hits. Stunned 6 rounds. If no helm then a 4 week coma results. --3 --
+!import-table-item --unbalance --Savage blow to head. Knocked down Dies in 12 rounds due to severed vein. --1 --
+!import-table-item --unbalance --Great side shot. Knocked down adn sideways 5 feet. Lower leg broken. Stunned 7 rounds. -40 activity. --6 --
+!import-table-item --unbalance --Blow to shield shoulder. Stunned 9 rounds. -20 activity. If no shield then uncounscious and upper arm shattered. --3 --
+!import-table-item --unbalance --Frightening strike to temple. Knocked back 20 feet. Dies instantly. Not nice. --1 --
