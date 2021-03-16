@@ -11,3 +11,5 @@ First learned of this from [Roll20 Random Tables](https://github.com/wesbaker/ro
 1. Click "Import TableExport (Paste text)"
 1. Copy the contents of the table you want to import and paste it into the form
 1. Hit submit
+### API Import
+[Import Export](https://github.com/shdwjk/Roll20API/tree/master/TableExport)
