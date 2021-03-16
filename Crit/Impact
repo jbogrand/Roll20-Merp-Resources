@@ -1,0 +1,20 @@
+!import-table --Impact --show
+!import-table-item --Impact --Not even a scratch. +0 hits. --55 --
+!import-table-item --Impact --Grazing shot. +5 hits. --15 --
+!import-table-item --Impact --Staggered by strike to side. +10 hits. Stunned 1 round. --15 --
+!import-table-item --Impact --Strike to shoulder. Spun about. Reel backwards 10 feet. +12 hits. If no armor then stunned 2 rounds. --15 --
+!import-table-item --Impact --Strike to leg. Knocked down. +8 hits. If no leg armor stunned 2 rounds. --15 --
+!import-table-item --Impact --Blast to shield arm. +10 hits. Shield or arm armor destroyed. If none then arm broken and useless stunned 3 rounds. --14 --
+!import-table-item --Impact --Strike to head. +12 hits. Helm is shattered. Knocked down and out for 1 day.  If no  helm skull fractured dies in 3 rounds. --1 --
+!import-table-item --Impact --Blow to upper leg. Muscles torn. +15 hits. -10 to activity. If no leg armor for -20 to activity and stunned 3 rounds. --6 --
+!import-table-item --Impact --Blast to collar area. +12 hits. Stunned 5 rounds. Cannot speak for 1 week. If no neck armor voice loss is permanents.  --3 --
+!import-table-item --Impact --Neck strike. +20 hits. Paralyzed from the shoulders down. A melancholoy mood falls on victim. --1 --
+!import-table-item --Impact --Blow to knee. Knee dislocated. Cartilage and tendons ripped. +15 hits. -50 to activity. Stunned 9 rounds. --6 --
+!import-table-item --Impact --Strike abdomen. +18 hits. Stunned 12 rounds. If no abdomen armor then dies in 6 rounds due to destroyed organs. --3 --
+!import-table-item --Impact --Blast to head fractures skull. A 3 week coma results. If no helm dies immediately. --1 --
+!import-table-item --Impact --Blow to jaw. Jaw broken. Cannot speak or eat solid food until healed. +15 hits. Stunned 7 rounds. --6 --
+!import-table-item --Impact --Blow to side. Bone is driven into kidneys. Dies in 6 rounds. --3 --
+!import-table-item --Impact --Disrupt chest. Lunds and heart explode from impact.  Dies instantly. Very messy. --1 --
+!import-table-item --Impact --Spun by knocked blow. Knocked down. Breaks both arms. -60 activity. Stunned 3 rounds. --6 --
+!import-table-item --Impact --Blast shatters skull into thousands of particles. Dies instantly. Direct hit, fine  punch. --3 --
+!import-table-item --Impact --Blast annihilates entire skeleton. Reduced to a gelatinous pulp. Try  a spatula. --1 --
