@@ -1,0 +1,20 @@
+!import-table --slash --show
+!import-table-item --slash --Weak strike leads no extra damage. +0 hits. --55 --
+!import-table-item --slash --Minor calf wound 1 hit per round --15 --
+!import-table-item --slash --Blow to upper leg. +5 hits. If no leg armoer than +3 hits and 2 hits per round. --15 --
+!import-table-item --slash --Minor chest wound. + 3 hits. 1 hit per round. -5 to activity. --15 --
+!import-table-item --slash --Minor forearm wound. +4 hits. 2 hits per round. Stunned 1 round --15 --
+!import-table-item --slash --Medium thigh wound. + 6 hits. 1 hit per round. -10 activity. Stunned 2 rounds. --14 --
+!import-table-item --slash --Neck strike severs cartoid artery. Neck broken. Dies in 1 round of intense agony. --1 --
+!import-table-item --slash --Slash weapon arm. +10 hits. 1 hit per round. If no arm armor than muscle and tendon damage. Arm useless. --6 --
+!import-table-item --slash --Destroys one eye. +10 hits. Stunned for 30 rounds. --3 --
+!import-table-item --slash --Disemboweled, dies instantly.  25 percent chance your weapon is stuck in opponent for 2 rounds. --1 --
+!import-table-item --slash --Knocked out for 6 hours with a strike to side of head. +15 hits. If no helm than dies instantly. --6 --
+!import-table-item --slash --Sever lower leg. 20 hits per round. Drops and lapses into unconsciousness. --3 --
+!import-table-item --slash --Slash side. Down, unconscious and dies in 3 rounds due to massive internal organ damage. --1 --
+!import-table-item --slash --Major abdominal wound. +10 hits. 8 hits per roud. -10 to activity. Stunned for 4 rounds. --6 --
+!import-table-item --slash --Sever weapon arm. 15 hits per round. Down and unconscious immediately. --3 --
+!import-table-item --slash --Impaled in heart. Dies instantly. Heart destroyed. 25% chance your weapon is stuck in foe 3 rounds. --1 --
+!import-table-item --slash --Sever hand. 12 hits per round. Knoocked down and stunned for 6 rounds. --6 --
+!import-table-item --slash --Sever spine. Collapses immediately. Paralyzed from the neck down permanently. +20 hits. --3 --
+!import-table-item --slash --Strike to head destroys brain. Life is hard for the unfortunate fool.  Expires in a heap, immediately. --1 --
